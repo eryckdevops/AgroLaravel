@@ -1,25 +1,35 @@
-# Sistema Agro em PHP
+# Sistema Agro 
 
 <div style="display: flex; justify-content: space-between;">
-<img src="https://img.icons8.com/ios/452/mysql.png" alt="MySQL" width="100" height="100">
-<img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" alt="Node.js" width="100" height="100">
-<img src="https://cdn.iconscout.com/icon/free/png-512/react-4-1175110.png" alt="React.js" width="100" height="100">
-<img src="https://img.icons8.com/color/452/typescript.png" alt="TypeScript" width="100" height="100">
+
+<img src="https://belenos.me/media/2021-06-laravel.web" alt="Laravel" width="100" height="100">
 <img src="https://img.icons8.com/color/black/php.png" alt="PHP" width="100" height="100">
+<img src="https://belenos.me/media/2021-05-vuejs.webp" alt="MySQL" width="100" height="100">
+<img src="https://img.icons8.com/ios/452/mysql.png" alt="MySQL" width="100" height="100">
 
 </div>
+
 > ## Features 🚀
   - :heavy_check_mark: Adição de estoque
+   <BR>
   - :heavy_check_mark: Gerenciamento de estoque
+   <BR>
   - :heavy_check_mark: Gestão de Fornecedores
+   <BR>
   - :heavy_check_mark: Gerenciamento de categoria
+   <BR>
   - :heavy_check_mark: Alerta de estoque baixo
+   <BR>
   - :heavy_check_mark: Alerta de expiração próxima
+   <BR>
   - :heavy_check_mark: Alertas de telegrama
+   <BR>
   - :heavy_check_mark: Gráficos de entrada e saída de produtos
+   <BR>
   
 ## Run 🚀
-  Copy .env.example to .env and setup your Database information.
+  
+> Copie .env.example para .env e configure as informações do seu banco de dados.
 
   ``` bash
   # Composer install
