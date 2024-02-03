@@ -4,7 +4,8 @@
 
 <img src="https://media.licdn.com/dms/image/D4D12AQFNsP2vSyjYeA/article-cover_image-shrink_600_2000/0/1702597482581?e=2147483647&v=beta&t=LnplWeOJG1y6MRoZYevqnkJYHBu4easYavShCTI0vRE" alt="Laravel" width="100" height="100">
 <img src="https://img.icons8.com/color/black/php.png" alt="PHP" width="100" height="100">
-<img src="https://belenos.me/media/2021-05-vuejs.webphttps://archive.org/download/vue-glitch/VueJS%20test.gifhttps://e7.pngegg.com/pngimages/925/551/png-clipart-mysql-mysql-thumbnail.png" alt="MySQL" width="100" height="100">
+<img src="https://e7.pngegg.com/pngimages/436/593/png-clipart-vue-js-logo-landscape-tech-companies-thumbnail.png" alt="VUE" width="100" height="100">
+<img src="https://www.tshirtgeek.com.br/wp-content/uploads/2021/08/com031.jpg" alt="MySQL" width="100" height="100">
 
 </div>
 
